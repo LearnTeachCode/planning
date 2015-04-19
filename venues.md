@@ -2,11 +2,11 @@
 #  LtCLA Master Venue List  #
 # # # # # # # # # # # # # # #
 
-Places that proven themselves worthy:
-
-Null Space Labs
+Places that have proven themselves worthy:
+<br>
+<p>Null Space Labs
 4610 Valley Blvd STE F, Los Angeles, CA 90032
-(424) 234-6756
+(424) 234-6756</p>
 
 Tom N Toms
 333 S Alameda St, Ste 108
