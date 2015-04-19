@@ -14,7 +14,7 @@ Los Angeles, CA 90013</p>
 <br>
 <em>New potential venues:</em>
 <br>
-<bold>Hollywood:</bold>
+<b>Hollywood:</b>
 <br>
 <p>Sabor y Cultura <br>
 5625 Hollywood Blvd, Los Angeles, CA 90028 <br>
