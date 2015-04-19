@@ -26,6 +26,8 @@ Los Angeles, CA 90013</p>
 <br>
 <b>Mid-City</b>
 <br>
-<p>1032 S Fairfax Ave<br>
+
+<p>Paradocs<br>
+1032 S Fairfax Ave<br>
 Los Angeles, CA 90019</p>
 
