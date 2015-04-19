@@ -23,3 +23,9 @@ Los Angeles, CA 90013</p>
 <p>Bourgeois Pig <br>
 5931 Franklin Ave, Los Angeles, CA 90028 <br>
 (323) 464-6008</p>
+<br>
+<b>Mid-City</b>
+<br>
+<p>1032 S Fairfax Ave<br>
+Los Angeles, CA 90019</p>
+
