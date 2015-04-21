@@ -2,8 +2,8 @@
 
 ##Places that have proven themselves worthy:
 
-Null Space Labs
-4610 Valley Blvd STE F, Los Angeles, CA 90032 <br>
+*Null Space Labs*  
+4610 Valley Blvd STE F, Los Angeles, CA 90032  
 (424) 234-6756
 
 Tom N Toms
