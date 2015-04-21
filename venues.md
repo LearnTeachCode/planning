@@ -22,10 +22,22 @@
 
 **Bourgeois Pig**  
 5931 Franklin Ave, Los Angeles, CA 90028  
-(323) 464-6008  
+(323) 464-6008
+
+###NoHo
+
+**Republic of Pie**
+11118 Magnolia Blvd, North Hollywood, CA 91601
+(818) 308-7990
 
 ###Mid-City
 
 **Paradocs**  
 1032 S Fairfax Ave, Los Angeles, CA 90019  
+
+###Downtown
+
+**Starbucks**
+138 S Central Ave, Los Angeles, CA 90012
+(213) 613-0393
 
