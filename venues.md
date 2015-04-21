@@ -1,33 +1,29 @@
-# # # # # # # # # # # # # # #
-#  LtCLA Master Venue List  #
-# # # # # # # # # # # # # # #
+#Learn to Code LA Master Venue List
 
-<em>Places that have proven themselves worthy:</em>
-<br>
-<p>Null Space Labs <br>
+##Places that have proven themselves worthy:
+
+Null Space Labs
 4610 Valley Blvd STE F, Los Angeles, CA 90032 <br>
-(424) 234-6756</p>
-<br>
-<p>Tom N Toms <br>
-333 S Alameda St, Ste 108<br>
-Los Angeles, CA 90013</p>
-<br>
-<em>New potential venues:</em>
-<br>
-<b>Hollywood:</b>
-<br>
-<p>Sabor y Cultura <br>
+(424) 234-6756
+
+Tom N Toms
+333 S Alameda St, Ste 108
+Los Angeles, CA 90013
+
+##New potential venues:
+
+###Hollywood:
+
+Sabor y Cultura
 5625 Hollywood Blvd, Los Angeles, CA 90028 <br>
 (323) 466-0481</p>
-<br>
-<p>Bourgeois Pig <br>
-5931 Franklin Ave, Los Angeles, CA 90028 <br>
-(323) 464-6008</p>
-<br>
-<b>Mid-City</b>
-<br>
 
-<p>Paradocs<br>
-1032 S Fairfax Ave<br>
-Los Angeles, CA 90019</p>
+Bourgeois Pig
+5931 Franklin Ave, Los Angeles, CA 90028
+(323) 464-6008
 
+###Mid-City
+
+Paradocs
+1032 S Fairfax Ave
+Los Angeles, CA 90019
