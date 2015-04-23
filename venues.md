@@ -26,7 +26,7 @@
 
 ###NoHo
 
-**Republic of Pie**
+**Republic of Pie**  
 11118 Magnolia Blvd, North Hollywood, CA 91601
 (818) 308-7990
 
@@ -37,7 +37,11 @@
 
 ###Downtown
 
-**Starbucks**
+**Starbucks**  
 138 S Central Ave, Los Angeles, CA 90012
 (213) 613-0393
 
+###West LA
+
+**Panera Bakery**  
+501 Wilshire Boulevard, Santa Monica, CA
